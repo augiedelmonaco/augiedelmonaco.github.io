@@ -85,6 +85,10 @@ background-color: #0597f2;
     color: white;
 }
 
+.btn-primary:active, .btn-primary:focus {
+    box-shadow: 0 0 0 0.2rem rgba(41, 86, 169, 0.5) !important;
+  }
+
 
 .projectText {
     font-family: "Roboto"; 
