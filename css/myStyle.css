@@ -89,17 +89,53 @@ background-color: #0597f2;
     box-shadow: 0 0 0 0.2rem rgba(41, 86, 169, 0.5) !important;
   }
 
+.skillsHeader {
+    padding-bottom: 2%;
+}
+
+  #portfolio .portfolio-item .portfolio-link .portfolio-hover {
+    background: rgba(5, 151, 242, 0.9);
+}
 
 .projectText {
     font-family: "Roboto"; 
 }
 
-.module-body {
+.modal-font {
     font-family: "Roboto"; 
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover {
-    background: rgba(5, 151, 242, 0.9);
+.projectHeader {
+color: #2956A9;
+padding-bottom: 10px;
+padding-top: 20px;
+}
+
+.portfolio-modal .modal-content p {
+  margin-bottom: 10px;
+}
+
+.portfolio-modal .modal-content img {
+    margin-bottom: 10px;
+  }
+
+.userName {
+    text-align: left;
+    margin-bottom: none;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+.userHeader {
+    font-weight: bold;
+    font-size: 110%;
+    text-align: left;
+    margin-top: -6px;
+}
+
+.userPersona {
+    text-align: left;
+    margin-top: -12px;
 }
 
 .text-muted {
