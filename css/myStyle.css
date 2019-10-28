@@ -89,9 +89,9 @@ background-color: #0597f2;
     box-shadow: 0 0 0 0.2rem rgba(41, 86, 169, 0.5) !important;
   }
 
-.skillsSection {
-    margin-top: -10px;
-    margin-bottom: -40px;
+.page-section {
+    padding-top: 100px;
+    padding-bottom: 60px;
 }
 
 .skillsHeader {
@@ -99,7 +99,13 @@ background-color: #0597f2;
     margin-top: -50px;
 }
 
-.skillImage {
+
+/* .skillsSection {
+    margin-top: -10px;
+    margin-bottom: -40px;
+} */
+
+/* .skillImage {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -108,14 +114,15 @@ background-color: #0597f2;
 
 .skillName {
     text-align: center;
-}
+} */
 
-  #portfolio .portfolio-item .portfolio-link .portfolio-hover {
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
     background: rgba(5, 151, 242, 0.9);
 }
 
 .projectText {
     font-family: "Roboto"; 
+    line-height: 20px;
 }
 
 .modal-font {
@@ -124,8 +131,8 @@ background-color: #0597f2;
 
 .projectHeader {
 color: #2956A9;
-padding-bottom: 10px;
-padding-top: 20px;
+padding-bottom: 0px;
+padding-top: 30px;
 }
 
 .portfolio-modal .modal-content p {
@@ -156,6 +163,20 @@ padding-top: 20px;
 }
 
 .cardSort {
+    padding-top: 20px;
+}
+
+.prototypeHead {
+    padding-top: 25px;
+}
+
+.picMiddle {
+    margin-right: -25px;
+    margin-left: -25px;
+}
+
+.iterationText {
+    line-height: 20px;
     padding-top: 20px;
 }
 
