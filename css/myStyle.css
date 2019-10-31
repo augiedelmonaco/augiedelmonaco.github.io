@@ -12,6 +12,7 @@ a {
     color: #0597f2;
 }
 
+
 a:hover {
     color: #0597f2;
 }
@@ -123,6 +124,7 @@ background-color: #0597f2;
 .projectText {
     font-family: "Roboto"; 
     line-height: 20px;
+    text-align: left;
 }
 
 .modal-font {
@@ -170,6 +172,10 @@ padding-top: 30px;
     padding-top: 25px;
 }
 
+.prototypeDiv {
+    padding-top: 25px;
+}
+
 .picMiddle {
     margin-right: -25px;
     margin-left: -25px;
@@ -178,6 +184,7 @@ padding-top: 30px;
 .iterationText {
     line-height: 20px;
     padding-top: 20px;
+    text-align: left;
 }
 
 .text-muted {
