@@ -172,6 +172,11 @@ padding-top: 30px;
     padding-top: 25px;
 }
 
+.prototypeH5 {
+    padding-top: 15px;
+    margin-bottom: -15px;
+}
+
 .prototypeDiv {
     padding-top: 25px;
 }
@@ -185,6 +190,30 @@ padding-top: 30px;
     line-height: 20px;
     padding-top: 20px;
     text-align: left;
+}
+
+.iterationHead {
+    line-height: 20px;
+    padding-top: 30px;
+    text-align: left;
+}
+
+.prototypeText{
+    line-height: 20px;
+    text-align: left;
+}
+
+#homeMobile {
+    padding-top: 15px;
+}
+
+#adoptPhead {
+    padding-top: 10px;
+}
+
+.userFlowScreen {
+    padding-right: 5px;
+    padding-left: 5px;
 }
 
 .text-muted {
