@@ -216,6 +216,10 @@ padding-top: 30px;
     padding-left: 5px;
 }
 
+.closeBtn {
+    padding-bottom: 30px;
+}
+
 .text-muted {
     font-family: "Roboto"; 
 }
