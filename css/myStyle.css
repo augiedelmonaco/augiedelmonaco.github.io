@@ -12,7 +12,9 @@ a {
     color: #0597f2;
 }
 
-
+p {
+    line-height: 1.6;
+}
 a:hover {
     color: #0597f2;
 }
@@ -123,7 +125,7 @@ background-color: #0597f2;
 
 .projectText {
     font-family: "Roboto"; 
-    line-height: 20px;
+    line-height: 1.6;
     text-align: left;
 }
 
@@ -187,19 +189,21 @@ padding-top: 30px;
 }
 
 .iterationText {
-    line-height: 20px;
+    line-height: 1.6;
     padding-top: 20px;
     text-align: left;
 }
 
 .iterationHead {
-    line-height: 20px;
+    line-height: 1.6;
     padding-top: 30px;
     text-align: left;
+    font-weight: bold;
+    font-weight: 900;
 }
 
 .prototypeText{
-    line-height: 20px;
+    line-height: 1.6;
     text-align: left;
 }
 
