@@ -97,6 +97,19 @@ background-color: #0597f2;
     padding-bottom: 60px;
 }
 
+#FFheaderImg {
+    max-width: 70%;
+}
+
+.fitSurveyH {
+    padding-top: 10px;
+    text-align: left;
+}
+
+#surveyPartner {
+    max-width: 50%;
+}
+
 .skillsHeader {
     padding-bottom: 2%;
     margin-top: -50px;
