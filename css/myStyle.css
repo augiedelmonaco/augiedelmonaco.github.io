@@ -97,6 +97,16 @@ background-color: #0597f2;
     padding-bottom: 60px;
 }
 
+#myName{
+    font-family: "Montserrat";
+    color: white;
+    letter-spacing: 2px;
+    font-size: 75%;
+    float: right;
+    padding-left: 10px;
+    vertical-align: middle;
+}
+
 #FFheaderImg {
     max-width: 70%;
 }
