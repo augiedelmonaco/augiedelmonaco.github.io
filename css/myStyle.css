@@ -103,9 +103,18 @@ background-color: #0597f2;
     letter-spacing: 2px;
     font-size: 75%;
     float: right;
-    padding-left: 10px;
-    vertical-align: middle;
+    display: inline;
+    padding-left: 15px;
 }
+
+/* #UXdesigner{
+    font-family: "Montserrat";
+    color: white;
+    letter-spacing: 2px;
+    font-size: 75%;
+    display: inline;
+    padding-left: 10px;
+} */
 
 #FFheaderImg {
     max-width: 70%;
