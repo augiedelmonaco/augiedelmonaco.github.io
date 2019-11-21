@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 934.2 743.1" style="enable-background:new 0 0 934.2 743.1;" xml:space="preserve">
 <style type="text/css">
@@ -31,7 +31,7 @@
 	<line class="st1" x1="74.8" y1="594.1" x2="904.8" y2="594.1"/>
 	<line class="st1" x1="74.8" y1="35.4" x2="452.6" y2="35.4"/>
 	<line class="st1" x1="505.6" y1="35.4" x2="883.4" y2="35.4"/>
-	<polygon class="st2" points="74.7,296.2 114.9,295.9 213.8,265.8 311.9,320.8 443.2,249.6 531.3,296.8 656.9,278.6 749.6,258 
+	<polygon class="st2" points="74.7,309.5 114.9,295.9 213.8,265.8 311.9,320.8 443.2,249.6 531.3,296.8 656.9,278.6 749.6,258 
 		867.5,211.2 903.6,189.8 903.6,482.8 73.9,482.8 	"/>
 	<rect x="74.8" y="110.1" class="st3" width="830" height="372.2"/>
 	<line class="st4" x1="74.8" y1="296.2" x2="904.8" y2="296.2"/>
@@ -40,8 +40,8 @@
 </g>
 <g id="Layer_1">
 	<text transform="matrix(1 0 0 1 74.7596 28.1677)" class="st5 st6 st7">SCENARIO</text>
-	<text transform="matrix(1 0 0 1 5.6727 244.7999)" class="st5 st6 st8">HAPPY</text>
-	<text transform="matrix(1 0 0 1 16.2289 425.7999)" class="st5 st6 st8">SAD</text>
+	<text transform="matrix(1 0 0 1 5.8129 244.7999)" class="st5 st6 st8">HAPPY</text>
+	<text transform="matrix(1 0 0 1 16.3685 425.7999)" class="st5 st6 st8">SAD</text>
 	<text transform="matrix(1 0 0 1 509.7557 28.1677)" class="st5 st6 st7">GOALS</text>
 	<text transform="matrix(1 0 0 1 74.7596 585.6915)" class="st5 st6 st7">OPPORTUNITIES</text>
 	<g id="Group_15_1_" transform="translate(0)">
@@ -194,12 +194,12 @@
 				L9.5,348.9z"/>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 113.5374 520.092)"><tspan x="0" y="0" class="st9 st10 st11">LOAD S.A.A.</tspan><tspan x="-0.7" y="22" class="st9 st10 st11">HOMEPAGE</tspan></text>
-	<text transform="matrix(1 0 0 1 304.7312 520.092)"><tspan x="0" y="0" class="st9 st10 st11">FIND VOLUNTEER</tspan><tspan x="5.9" y="22" class="st9 st10 st11">OPPORTUNITIES</tspan></text>
-	<text transform="matrix(1 0 0 1 527.5413 520.092)"><tspan x="0" y="0" class="st9 st10 st11">FIND DONATION</tspan><tspan x="8.7" y="22" class="st9 st10 st11">INFORMATION</tspan></text>
-	<text transform="matrix(1 0 0 1 743.8792 520.092)"><tspan x="0" y="0" class="st9 st10 st11">SEARCH RESCUE</tspan><tspan x="33" y="22" class="st9 st10 st11">ANIMALS</tspan></text>
-	<rect x="74.8" y="45.7" class="st12" width="377.9" height="59"/>
-	<text transform="matrix(1 0 0 1 74.7597 56.099)"><tspan x="0" y="0" class="st5 st13 st8">Nancy finds it difficult to donate and volunteer with </tspan><tspan x="0" y="16.8" class="st5 st13 st8">animal rescue organizations because of long </tspan><tspan x="0" y="33.6" class="st5 st13 st8">application processes and confusing site </tspan></text>
+	<text transform="matrix(1 0 0 1 113.697 520.092)"><tspan x="0" y="0" class="st9 st10 st11">LOAD S.A.A.</tspan><tspan x="-0.7" y="22" class="st9 st10 st11">HOMEPAGE</tspan></text>
+	<text transform="matrix(1 0 0 1 304.8914 520.092)"><tspan x="0" y="0" class="st9 st10 st11">FIND VOLUNTEER</tspan><tspan x="5.9" y="22" class="st9 st10 st11">OPPORTUNITIES</tspan></text>
+	<text transform="matrix(1 0 0 1 527.7009 520.092)"><tspan x="0" y="0" class="st9 st10 st11">FIND DONATION</tspan><tspan x="8.7" y="22" class="st9 st10 st11">INFORMATION</tspan></text>
+	<text transform="matrix(1 0 0 1 744.0394 520.092)"><tspan x="0" y="0" class="st9 st10 st11">SEARCH RESCUE</tspan><tspan x="33" y="22" class="st9 st10 st11">ANIMALS</tspan></text>
+	<rect x="74.8" y="45.7" class="st12" width="382.4" height="59"/>
+	<text transform="matrix(1 0 0 1 74.7597 56.0985)"><tspan x="0" y="0" class="st5 st13 st8">Nancy finds it difficult to donate and volunteer with </tspan><tspan x="0" y="16.8" class="st5 st13 st8">animal rescue organizations because of long </tspan><tspan x="0" y="33.6" class="st5 st13 st8">application processes and confusing site navigation.</tspan></text>
 	<rect x="509.8" y="45.7" class="st12" width="373.7" height="59"/>
 	<text transform="matrix(1 0 0 1 509.7558 56.0985)"><tspan x="0" y="0" class="st5 st13 st8">Nancy hopes to find an organization that provides </tspan><tspan x="0" y="16.8" class="st5 st13 st8">an easier way to volunteer, donate, and research </tspan><tspan x="0" y="33.6" class="st5 st13 st8">rescue animals.</tspan></text>
 	<circle class="st14" cx="114.9" cy="295.9" r="9.1"/>
