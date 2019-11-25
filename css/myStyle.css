@@ -97,6 +97,14 @@ background-color: #0597f2;
     padding-bottom: 60px;
 }
 
+.intro-lead-in {
+    margin-top: -10px;
+}
+
+.intro-heading {
+    padding-top: 15px;
+}
+
 #myName{
     font-family: "Montserrat";
     color: white;
